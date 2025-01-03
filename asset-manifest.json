@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.259f5e6f.css",
+    "main.js": "/static/js/main.ef5c5d45.js",
+    "static/media/rb_9153.png": "/static/media/rb_9153.77db3a2dedf9d0bf9d84.png",
+    "static/media/login-screen-banner.jpg": "/static/media/login-screen-banner.2534501f50e013312932.jpg",
+    "static/media/instagram.png": "/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/app_logo.jpg": "/static/media/app_logo.2164672d779d99e88708.jpg",
+    "static/media/telegram.png": "/static/media/telegram.e9722f26cc228e817986.png",
+    "static/media/twitter.png": "/static/media/twitter.93ac3f9a344ecd5d01a4.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
+    "static/media/facebook.png": "/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "index.html": "/index.html",
+    "main.259f5e6f.css.map": "/static/css/main.259f5e6f.css.map",
+    "main.ef5c5d45.js.map": "/static/js/main.ef5c5d45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259f5e6f.css",
+    "static/js/main.ef5c5d45.js"
+  ]
+}
